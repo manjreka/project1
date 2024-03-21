@@ -1,0 +1,7 @@
+.header_bg_container {
+  display: flex;
+  justify-content: space-between;
+  max-height: 25vh;
+  padding: 15px;
+  background-color: #263868;
+}
